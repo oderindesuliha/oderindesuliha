@@ -28,7 +28,7 @@
 ## 🚀 Featured Projects
 
 ### 📘 [Contact Management App](https://github.com/oderindesuliha/contactmanagementApp)  
-Built with Spring Boot and MongoDB, this API allows users to shorten URLs and track click analytics.
+Built with Spring Boot and MongoDB
 
 ### 📝 [To-do list app](https://github.com/oderindesuliha/to-do-list)  
 A user-friendly to-do list application allowing users to add, edit, and delete tasks with ease.
