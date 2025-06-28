@@ -28,7 +28,17 @@
 ## 🚀 Featured Projects
 
 ### 📘 [Contact Management App](https://github.com/oderindesuliha/contactmanagementApp)  
-Built with Spring Boot and MongoDB
+An application for managing personal and business contacts, built using Spring Boot for the backend and MongoDB for data persistence.
+Allows user create, update, and delete contact records.RESTful API design following standard HTTP methods
+Clean, modular architecture using Spring Boot best practices
+
+Backend: Java, Spring Boot, MongoDB
+
+Database: MongoDB 
+
+Build Tool: Maven
+
+Postman for API testing
 
 ### 📝 [To-do list app](https://github.com/oderindesuliha/to-do-list)  
 A user-friendly to-do list application allowing users to add, edit, and delete tasks with ease.
