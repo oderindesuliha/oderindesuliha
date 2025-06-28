@@ -30,7 +30,6 @@
 ### 📘 [Contact Management App](https://github.com/oderindesuliha/contactmanagementApp)  
 An application for managing personal and business contacts, built using Spring Boot for the backend and MongoDB for data persistence.
 Allows user create, update, and delete contact records.RESTful API design following standard HTTP methods
-Clean, modular architecture using Spring Boot best practices
 
 Backend: Java, Spring Boot, MongoDB
 
